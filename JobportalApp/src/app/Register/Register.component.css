@@ -1,0 +1,36 @@
+.Reg-form
+{
+  width: 70%;
+  gap: 40px;
+  font-size: 20px;
+  margin-left: 55%;
+  margin-top: -30%;
+}
+input,button
+{
+  width:50%;
+  height: 5vh;
+  font-size: 18px;
+}
+label{
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+}
+
+img
+{
+  width:50%;
+  height: 50vh;
+
+}
+.item4
+{
+  background-color: brown;
+  width: 50%;
+  height: 30vh;
+}
+.item1
+{
+  margin-left: 30px;
+}
